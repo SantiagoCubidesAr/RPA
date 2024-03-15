@@ -1,0 +1,37 @@
+============================================================================================================================
+| INICIO DE APLICACION - NombreAutomatización | 2024-03-14 18:13:55|
+============================================================================================================================
+
+| Ejecutando la tarea --> [Inicio de ejecucion del proceso] --> Hora de ejecucion: 2024-03-14 18:13:55
+| Ejecutando la tarea --> [Instancia del objeto driver] --> Hora de ejecucion: 2024-03-14 18:14:02
+| Ejecutando la tarea --> [Inicio de marioneta] --> Hora de ejecucion: 2024-03-14 18:14:04
+| Ejecutando la tarea --> [Agregando adBlock] --> Hora de ejecucion: 2024-03-14 18:14:04
+| Ejecutando la tarea --> [Ejecucion de segunda cancion] --> Hora de ejecucion: 2024-03-14 18:14:21
+| Ejecutando la tarea --> [Bot Finalizado] --> Hora de ejecucion: 2024-03-14 18:15:04
+============================================================================================================================
+| INICIO DE APLICACION - NombreAutomatización | 2024-03-14 18:15:20|
+============================================================================================================================
+
+| Ejecutando la tarea --> [Inicio de ejecucion del proceso] --> Hora de ejecucion: 2024-03-14 18:15:20
+| Ejecutando la tarea --> [Instancia del objeto driver] --> Hora de ejecucion: 2024-03-14 18:15:26
+| Ejecutando la tarea --> [Inicio de marioneta] --> Hora de ejecucion: 2024-03-14 18:15:28
+| Ejecutando la tarea --> [Ejecucion de segunda cancion] --> Hora de ejecucion: 2024-03-14 18:15:28
+| Ejecutando la tarea --> [Bot Finalizado] --> Hora de ejecucion: 2024-03-14 18:16:15
+============================================================================================================================
+| INICIO DE APLICACION - NombreAutomatización | 2024-03-14 18:17:15|
+============================================================================================================================
+
+| Ejecutando la tarea --> [Inicio de ejecucion del proceso] --> Hora de ejecucion: 2024-03-14 18:17:15
+| Ejecutando la tarea --> [Instancia del objeto driver] --> Hora de ejecucion: 2024-03-14 18:17:22
+| Ejecutando la tarea --> [Inicio de marioneta] --> Hora de ejecucion: 2024-03-14 18:17:24
+| Ejecutando la tarea --> [Ejecucion de segunda cancion] --> Hora de ejecucion: 2024-03-14 18:17:24
+| Ejecutando la tarea --> [Bot Finalizado] --> Hora de ejecucion: 2024-03-14 18:18:11
+============================================================================================================================
+| INICIO DE APLICACION - NombreAutomatización | 2024-03-14 18:20:04|
+============================================================================================================================
+
+| Ejecutando la tarea --> [Inicio de ejecucion del proceso] --> Hora de ejecucion: 2024-03-14 18:20:04
+| Ejecutando la tarea --> [Instancia del objeto driver] --> Hora de ejecucion: 2024-03-14 18:20:11
+| Ejecutando la tarea --> [Inicio de marioneta] --> Hora de ejecucion: 2024-03-14 18:20:13
+| Ejecutando la tarea --> [Ejecucion de segunda cancion] --> Hora de ejecucion: 2024-03-14 18:20:13
+| Ejecutando la tarea --> [Bot Finalizado] --> Hora de ejecucion: 2024-03-14 18:21:00

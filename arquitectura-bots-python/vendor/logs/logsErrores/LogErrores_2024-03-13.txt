@@ -1,0 +1,24 @@
+============================================================================================================================
+| Se ha encontrado un error --> Hora detectada: 2024-03-13 20:51:03
+| Ultimo estado (Tarea) --> Ejecucion de Main
+============================================================================================================================
+| ERROR --> Except del main: Message: Unable to locate element: /html/body/ytd-app/ytd-popup-container/tp-yt-paper-dialog/yt-upsell-dialog-renderer/div/div[3]/div[1]/yt-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:509:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+
+============================================================================================================================
+| Se ha encontrado un error --> Hora detectada: 2024-03-13 20:58:03
+| Ultimo estado (Tarea) --> Ejecucion de Main
+============================================================================================================================
+| ERROR --> Except del main: Message: Unable to locate element: /html/body/ytd-app/ytd-popup-container/tp-yt-paper-dialog/yt-upsell-dialog-renderer/div/div[3]/div[1]/yt-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:191:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:509:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+
